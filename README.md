@@ -1,9 +1,5 @@
 ![PROTEO Poster](Poster_Proteo_updated.png)
 
-
-
-## PROTEO Poster Presentation  
-
 ## Abstract  
 
 ### Analysis of 3D Chromatin Architecture Dynamics in Rice Under Drought Conditions  

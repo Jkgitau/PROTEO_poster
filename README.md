@@ -1,3 +1,7 @@
+![PROTEO Poster](Poster_Proteo_updated.png)
+
+
+
 ## PROTEO Poster Presentation  
 
 ## Abstract  
